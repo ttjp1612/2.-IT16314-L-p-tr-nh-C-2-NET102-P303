@@ -4,7 +4,7 @@ using System.Text;
 namespace BAI_1._2_DELEGATE
 {
     //Delegate có thể khai báo bên trong hoặc bên ngoài class
-   
+    public delegate void ShowMessage(string mess);
     class Program
     {
         #region Bài về Delegate
@@ -19,7 +19,7 @@ namespace BAI_1._2_DELEGATE
         * + Công thức:
         *      <phạm vi truy cập> delegate <kiểu phương thức> <tên>(<Tham số>); 
         */
-        public delegate void ShowMessage(string mess);
+        
         static void Info1(string s)
         {
             Console.ForegroundColor = ConsoleColor.Blue;
