@@ -19,7 +19,7 @@ namespace BAI_1._2_DELEGATE
         * + Công thức:
         *      <phạm vi truy cập> delegate <kiểu phương thức> <tên>(<Tham số>); 
         */
-        
+
         static void Info1(string s)
         {
             Console.ForegroundColor = ConsoleColor.Blue;
@@ -70,8 +70,27 @@ namespace BAI_1._2_DELEGATE
             Console.WriteLine("========Trừ trong Delegates========");
             multicastMessage = multicastMessage - showMessage4;
             multicastMessage("Trừ Multicast Delegate");
+            #endregion
 
+            #region Phần 4: Delegate Callback
+            Console.WriteLine("========Phần 4: Delegate Callback========");
+            DelegateCallback delegateCallback = new DelegateCallback(showMess);
+            CallBack(delegateCallback);
             #endregion
         }
+        #region Phần 4: Delegate Callback
+        public delegate void DelegateCallback(string mess);
+        public static void showMess(string mess)
+        {
+            Console.WriteLine("Thông báo: " + mess);
+        }
+        public static void CallBack(DelegateCallback delegateCallback)
+        {
+            Console.WriteLine("Mời bạn nhập thông báo: ");
+            var temp = Console.ReadLine();
+            delegateCallback(temp);
+        }
+
+        #endregion
     }
 }
