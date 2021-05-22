@@ -1,0 +1,16 @@
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\bin\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.exe
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\bin\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.deps.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\bin\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.runtimeconfig.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\bin\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.runtimeconfig.dev.json
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\bin\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\bin\Debug\net5.0\ref\BAI_1.5_DELEGATE_EVENT2.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\bin\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\obj\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.csprojAssemblyReference.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\obj\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\obj\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.AssemblyInfoInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\obj\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.AssemblyInfo.cs
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\obj\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.csproj.CoreCompileInputs.cache
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\obj\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\obj\Debug\net5.0\ref\BAI_1.5_DELEGATE_EVENT2.dll
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\obj\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.pdb
+F:\Google Driver Dungna29FPT\8. Demo\Demo C#2\SM21_Block1\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\2_IT16314_NET102\BAI_1.5_DELEGATE_EVENT2\obj\Debug\net5.0\BAI_1.5_DELEGATE_EVENT2.genruntimeconfig.cache

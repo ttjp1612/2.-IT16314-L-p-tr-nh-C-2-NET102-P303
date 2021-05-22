@@ -89,6 +89,7 @@ namespace BAI_1._2_DELEGATE
             Console.WriteLine("Mời bạn nhập thông báo: ");
             var temp = Console.ReadLine();
             delegateCallback(temp);
+            //showMess(temp);
         }
 
         #endregion
