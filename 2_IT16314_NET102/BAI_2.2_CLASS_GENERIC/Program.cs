@@ -15,6 +15,29 @@ namespace BAI_2._2_CLASS_GENERIC
         static void Main(string[] args)
         {
             Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
+            /*
+             * Ví dụ 1: Khai báo lớp Generic có thuộc tính dạng dữ liệu nguyên thủ
+             */
+            PolyClassGeneric<long> polyClassGeneric = new PolyClassGeneric<long>();
+            polyClassGeneric.Temp = 8;
+            polyClassGeneric.inRaManHinh();
+
+            /*
+           * Ví dụ 2: Lớp Generic khai báo mảng động kiểu dữ liệu
+           */
+            Console.WriteLine("Bạn muốn thêm bao nhiêu phần tử: ");
+            int size = Convert.ToInt32(Console.ReadLine());
+            PolyGeneric<double> polyGeneric = new PolyGeneric<double>(size);
+            for (int i = 0; i < size; i++)
+            {
+                Console.WriteLine($"Mời bạn nhập vào index [{i}]");
+                polyGeneric.addValueByIndex(i,Convert.ToDouble(Console.ReadLine()));
+            }
+
+            for (int i = 0; i < size; i++)
+            {
+                Console.WriteLine($"Phần tử tại index [{i}] = {polyGeneric.GetValueByIndex(i)}");
+            }
         }
     }
 }
