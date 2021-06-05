@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DungNAPC\\.nuget\\packages\\": {}
+    "C:\\Users\\DungnaPC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#2\\SM21_Block1\\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\\2_IT16314_NET102\\BAI_1.8_DinhNghia_EXCEPTION\\BAI_1.8_DinhNghia_EXCEPTION.csproj",
+      "projectUniqueName": "F:\\Dungna29 Fpoly\\8. Demo\\Demo C#2\\SM21_Block1\\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\\2_IT16314_NET102\\BAI_1.8_DinhNghia_EXCEPTION\\BAI_1.8_DinhNghia_EXCEPTION.csproj",
       "projectName": "BAI_1.8_DinhNghia_EXCEPTION",
-      "projectPath": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#2\\SM21_Block1\\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\\2_IT16314_NET102\\BAI_1.8_DinhNghia_EXCEPTION\\BAI_1.8_DinhNghia_EXCEPTION.csproj",
-      "packagesPath": "C:\\Users\\DungNAPC\\.nuget\\packages\\",
-      "outputPath": "F:\\Google Driver Dungna29FPT\\8. Demo\\Demo C#2\\SM21_Block1\\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\\2_IT16314_NET102\\BAI_1.8_DinhNghia_EXCEPTION\\obj\\",
+      "projectPath": "F:\\Dungna29 Fpoly\\8. Demo\\Demo C#2\\SM21_Block1\\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\\2_IT16314_NET102\\BAI_1.8_DinhNghia_EXCEPTION\\BAI_1.8_DinhNghia_EXCEPTION.csproj",
+      "packagesPath": "C:\\Users\\DungnaPC\\.nuget\\packages\\",
+      "outputPath": "F:\\Dungna29 Fpoly\\8. Demo\\Demo C#2\\SM21_Block1\\2.-IT16314-L-p-tr-nh-C-2-NET102-P303\\2_IT16314_NET102\\BAI_1.8_DinhNghia_EXCEPTION\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\DungNAPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DungnaPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

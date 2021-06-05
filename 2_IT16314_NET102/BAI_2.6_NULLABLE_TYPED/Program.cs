@@ -42,8 +42,35 @@ namespace BAI_2._6_NULLABLE_TYPED
             classA1.method1();//Vì không trỏ đến đối tượng nào nên khi truy cập đến thành viên sẽ bị lỗi
 
             string temp1 = null;
-            int temp2 = 10;  //  int là kiểu tham trị, nó có thể gán giá trị cho biến temp1 (10)
-            //int temp3 = null; ////  lỗi - kiểu tham  trị  không được gán null 
+            int temp2 = 10;          //  int là kiểu tham trị, nó có thể gán giá trị cho biến temp1 (10)
+            //int temp3 = null;      //  lỗi - kiểu tham  trị  không được gán null 
+            #endregion
+
+            #region Phần 2 NULLABLE TYPED
+            /*2.  NULLABLE TYPED
+                  + Cú pháp: 
+                      - Nullable<T> tên biến;
+                      - T? tên biến;
+                  + Cần gán gia trị cho biến khi khai báo nếu không sẽ bị lỗi và nên kiểm tra giá tị trước khi dùng bằng HasValue
+                  + Dùng phương thức GetValueOrDefault() để lấy giá mặc định của kiểu dữ liệu
+                  + Dùng toán tử ?? thực hiện gán Nullable Type cho Non-Nullable Type
+           */
+            Nullable<long> temp3 = null;
+            Nullable<long> temp4 = 9;
+            byte? temp5 = 20;
+            byte?[] arr = new byte?[5];
+
+            if (temp4.HasValue)//Kiểm tra giá trị trước khi dùng
+            {
+                //Thực hiện 1 hành động nào đó còn nếu ngược lại là empty
+            }
+            //GetValueOrDefault() phương thức lấy giá trị mặc định của kiểu dữ liệu
+            Console.WriteLine(temp3.GetValueOrDefault());//Giá trị mặc định = 0
+
+            //Toán tử ?? thực hiện gán Nullable Type cho Non-Nullable type
+            byte? temp6 = null;
+            byte temp7 = temp6 ?? 0;// temp7 = temp6 nếu temp6 != null, temp7 = 0 nếu temp6 = null;
+
             #endregion
         }
     }
